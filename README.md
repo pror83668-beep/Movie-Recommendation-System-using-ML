@@ -1,3 +1,4 @@
+DATASET LINK - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 🎬 Excited to share my latest Machine Learning project — **Movie Recommendation System**! 🚀
 
 Over the past few days, I built an end-to-end Movie Recommendation System using the TMDB 5000 Movies Dataset and deployed it with Streamlit.
@@ -50,4 +51,4 @@ As a first-year B.Tech CSE (AI & ML) student, every project teaches me something
 
 I would love to hear your feedback and suggestions for improving the recommendation engine further! 🚀
 
-#MachineLearning #ArtificialIntelligence #DataScience #Python #NLP #RecommendationSystem #MovieRecommendationSystem #ScikitLearn #Streamlit #NLTK #DataAnalytics #FeatureEngineering #CosineSimilarity #CountVectorizer #Pandas #NumPy #PythonDeveloper #AIEngineer #MLProjects #StudentDeveloper #LearningInPublic #TechProjects #Programming #Coding #SoftwareDevelopment #DataAnalysis #GitHub #OpenToWork #BTech #AIandML #ComputerScience #100DaysOfCode #WomenWhoCode #DeveloperCommunity #CodingJourney #LinkedInLearning #TechInnovation #ProjectShowcase #FutureEngineer #DataDriven #MachineLearningProjects
+
